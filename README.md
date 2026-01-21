@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dan Heck
+# Hi, I’m Dan
 
 I’m an aspiring **Infrastructure / Systems Engineer** focused on building, operating, and automating reliable systems in Linux and AWS environments.
 
