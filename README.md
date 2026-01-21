@@ -25,6 +25,14 @@ I learn by **building real infrastructure**, breaking it, fixing it, and documen
 
 ---
 
+## Monitoring and Alerting (Production Exposure)
+
+- Experience responding to alerts from LibreNMS and Nagios in a production environment
+- Familiar with SNMP-based monitoring, host and service health checks, and alert-driven workflows
+- Applied monitoring-driven troubleshooting concepts to recovery scenarios documented in this repository
+
+---
+
 ## 🚀 Featured Project
 
 ### AWS EC2 Load Balancing Lab (HAProxy + Nginx)
