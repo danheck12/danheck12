@@ -6,7 +6,7 @@ I learn by **building real infrastructure**, breaking it, fixing it, and documen
 
 ---
 
-## 🧠 What I’m Focused On
+## What I’m Focused On
 - Linux system administration
 - Networking & load balancing
 - High availability & fault tolerance
@@ -15,7 +15,7 @@ I learn by **building real infrastructure**, breaking it, fixing it, and documen
 
 ---
 
-## 🔧 Tools I Use
+## Tools I Use
 - **OS:** Linux (Ubuntu)
 - **Cloud:** AWS (EC2, VPC, Security Groups)
 - **Web:** Nginx, HAProxy
@@ -33,7 +33,7 @@ I learn by **building real infrastructure**, breaking it, fixing it, and documen
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### AWS EC2 Load Balancing Lab (HAProxy + Nginx)
 - Built a 3-node architecture on AWS EC2 (1x HAProxy LB, 2x Nginx web servers)
@@ -45,7 +45,7 @@ I learn by **building real infrastructure**, breaking it, fixing it, and documen
 
 ---
 
-## 📈 Next Up
+## Next Up
 - Automate the lab with **Ansible**
 - Add monitoring/alerting
 - Expand AWS networking (private subnets, NAT, IAM)
